@@ -119,6 +119,7 @@ section {
   display: inline-block;
   color: transparent;
   -webkit-text-stroke: 1px var(--pr-color);
+  font-size: 50px;
 }
 
 .header__img {
